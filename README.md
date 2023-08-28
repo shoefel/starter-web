@@ -16,3 +16,6 @@ blah blaah blaaah
 
 ## How to contibute
 
+### Copyright
+
+2023 Git.Training.
