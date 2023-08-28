@@ -16,6 +16,8 @@ blah blaah blaaah
 
 ## How to contibute
 
+Please fork this repository and issue Pull Request for review.
+
 ### Copyright
 
 2023 Git.Training.
